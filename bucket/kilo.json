@@ -1,12 +1,12 @@
 {
-    "version": "7.1.6",
+    "version": "7.1.8",
     "description": "Kilo - all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
     "homepage": "https://github.com/Kilo-Org/kilocode",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kilo-Org/kilocode/releases/download/v7.1.6/kilo-windows-x64.zip",
-            "hash": "81406fa42d92d6181bb75faa70326073c99cf9d409755591770e9f85ba3e09f3"
+            "url": "https://github.com/Kilo-Org/kilocode/releases/download/v7.1.8/kilo-windows-x64.zip",
+            "hash": "a8552605b9936c618cc01ed9f0b2761d9e1cc296493b2a59906b5aea11c20f04"
         }
     },
     "bin": "kilo.exe",
